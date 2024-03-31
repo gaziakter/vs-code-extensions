@@ -1,4 +1,4 @@
-# VS Code Extensions For WordPress
+# VS Code Extensions List
 
 ## HTML & CSS Extensions:
 
@@ -22,34 +22,47 @@
 
 ## JavaScript Extensions:
 
-9. **JavaScript (ES6) Code Snippets (charalampos karypidis) -** Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
+1. **JavaScript (ES6) Code Snippets (charalampos karypidis) -** Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
 
-10. **ESLint (Microsoft) -** It is a widely adopted linter that helps you catch errors, enforce coding standards, and improve code quality in JavaScript and TypeScript.
+2. **ESLint (Microsoft) -** It is a widely adopted linter that helps you catch errors, enforce coding standards, and improve code quality in JavaScript and TypeScript.
 
-11. **Prettier (Prettier) -** Code formatter that enforces consistent code style across your projects.
+3. **Prettier (Prettier) -** Code formatter that enforces consistent code style across your projects.
 
 ---
 
 ## PHP Extensions:
 
-12. PHP Intelephense
+1. **PHP Intelephense (Ben Mewburn)_** PHP code intelligence for Visual Studio Code
 
-13. PHP DocBlocker
+2. **PHP (Devsense)_** PHP Tools for VS Code is a full development integration for the PHP language. The features are provided respecting conventions, stability, simple use, and performance. Please see the product page for more details on devsense.com.
 
-14. PHP Namespace Resolver
+3. **PHP DocBlocker(Neil Brayfield)_** A simple, dependency free PHP specific DocBlocking package
+
+
+4. **PHP Namespace Resolver(Mehedi Hasan)_** PHP Namespace Resolver can import and expand your class. You can also sort your imported classes by line length or in alphabetical order.
+
+---
+
+## WordPress Extensions:
+
+1. **WordPress Hooks IntelliSense(Johnbillion)_** WordPress Hooks Intellisense for VS Code
+
 
 ---
 
 ## BOOST UP EDITOR:
 
-15. **Live Server (Ritwick Dey) -** Allows you to create a local development server with live reloading.
+1. **Live Server (Ritwick Dey) -** Allows you to create a local development server with live reloading.
 
-16. **Code Spell Checker (Street Side Software) -** Spelling Checker for Visual Studio Code.
+2. **Code Spell Checker (Street Side Software) -** Spelling Checker for Visual Studio Code.
 
-17. **CodeSnap (adpyke) -** Simplifies the process of taking code screenshots.
+3. **CodeSnap (adpyke) -** Simplifies the process of taking code screenshots.
 
-18. **vscode-icons (VSCode Icons Team) -** Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
+4. **vscode-icons (VSCode Icons Team) -** Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
 
-19. **GitLens (GitKraken) -** It is a powerful extension that integrates Git capabilities directly into your editor.
+5. **GitLens (GitKraken) -** It is a powerful extension that integrates Git capabilities directly into your editor.
 
-20. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
+6. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
+
+7. **GitHub Copilot(github)_** Get Code Suggestions in real-time, right in your IDE
+
