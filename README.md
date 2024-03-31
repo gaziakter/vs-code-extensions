@@ -18,6 +18,11 @@
 
 8. **Tailwind CSS IntelliSense (Tailwind Labs) -** Intelligent Tailwind CSS tooling for VS Code.
 
+9. **IntelliSense for CSS class names in HTML(Zignd)_** CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
+10. **Color Highlight(Sergii N)_** This extension styles css/web colors found in your document.
+
+
+
 ---
 
 ## JavaScript Extensions:
@@ -41,12 +46,19 @@
 
 4. **PHP Namespace Resolver(Mehedi Hasan)_** PHP Namespace Resolver can import and expand your class. You can also sort your imported classes by line length or in alphabetical order.
 
+5. **Format HTML in PHP(rifi2k)_** This extension provides formatting for the HTML code in PHP files. This way this works is this extension runs right before the save action which triggers any other registered PHP formatting extensions so you are free to have one and this will not get in the way or block it.
+
 ---
 
 ## WordPress Extensions:
 
-1. **WordPress Hooks IntelliSense(Johnbillion)_** WordPress Hooks Intellisense for VS Code
+1. **WordPress Snippets(wpprotools.io)_** The ultimate WordPress snippet collection for Visual Studio Code
 
+2. **WordPress Hooks IntelliSense(Johnbillion)_** WordPress Hooks Intellisense for VS Code
+
+3. **WooCommerce - Snippets & autocomplete(Claudio Sanches)_**  This extension for Visual Studio Code adds WooCommerce snippets and autocompletion of functions, classes and hooks.
+
+4. **WordPress Development ToolBox for Visual Code(Closemarketing)_** This Toolbox helps you to develop in WordPress very fast. It has a lot of snippets for a lot of situations and plugins.
 
 ---
 
@@ -65,4 +77,8 @@
 6. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
 
 7. **GitHub Copilot(github)_** Get Code Suggestions in real-time, right in your IDE
+
+08. **Lorem ipsum(Daniel Imms)_** A tiny VS Code extension made up of a few commands that generate and insert lorem ipsum text into a text file.
+
+
 
