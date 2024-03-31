@@ -81,4 +81,34 @@
 08. **Lorem ipsum(Daniel Imms)_** A tiny VS Code extension made up of a few commands that generate and insert lorem ipsum text into a text file.
 
 
+## MOST IMPORTANT:
+01. **Zoom with mouse wheel:_** 
+    File > preference > Setting > type mouse wheel > Editor:mouse wheel zoon > click mark
+
+02. **Keyboard shortcut:_** ctrl+k ctrl+s
+
+03. **Quickly line up and down:_**
+    alt+ up and down arrow key
+
+04. **Mini map enable and disable:_**
+    File > preference > Setting > Type enable or disble
+
+05. **Setting:_**
+    ctrl+,
+
+06. **Quick go the line:_**
+    ctrl+g
+
+07. **Sidebar hide and show_**
+    ctrl+b
+
+08. **Quickly create folder_**
+    assets/css
+
+31.12
+
+
+
+
+
 
